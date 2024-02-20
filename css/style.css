@@ -1,0 +1,46 @@
+.container-fluid {
+    justify-content: left !important;
+}
+
+.second-fluid #sidebarToggle {
+    width: 40px !important;
+    background-color: #ffffff !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    border: none !important;
+}
+
+.second-fluid #sidebarToggle:hover {
+    background-color: #EDEDED !important;
+}
+
+.second-fluid .logo {
+    width: 40px !important;
+    margin-left: 15px;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+}
+
+.list-group {
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.titles {
+    text-align: center !important;
+}
+
+.titles p {
+    font-size: 0.9em;
+}
+
+.titles .title3 a {
+    text-decoration: none;
+}
+
+.titles .title3:hover {
+    text-decoration: underline ;
+    
+}
